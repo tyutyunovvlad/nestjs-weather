@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node main.js"
   },
+  "engines": {
+    "node": "13.12.x"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tyutyunovvlad/nestjs-weather.git"
