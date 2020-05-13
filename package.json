@@ -2,18 +2,18 @@
   "name": "weather-app-api",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "web.js",
   "scripts": {
-    "start": "node main.js"
+    "start": "node web.js"
   },
   "engines": {
-    "node": "13.12.x"
+    "node": "10.x"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tyutyunovvlad/nestjs-weather.git"
   },
-  "keywords": [],
+  "keywords": ["heroku"],
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -21,3 +21,4 @@
   },
   "homepage": "https://github.com/tyutyunovvlad/nestjs-weather#readme"
 }
+
